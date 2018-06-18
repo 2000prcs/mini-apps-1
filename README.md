@@ -1,2 +1,13 @@
-#mini-apps-1
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+# Mini Apps - 1
+
+1. Tic Tac Toe game
+
+2. CSV Report Generator
+
+3. Connect Four
+
+4. Bowling
+
+5. Checkers
+
+6. Battleship
