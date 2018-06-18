@@ -1,6 +1,6 @@
 # Mini Apps - 1
 
-1. Tic Tac Toe game
+1. Tic Tac Toe
 
 2. CSV Report Generator
 
